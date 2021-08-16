@@ -1,12 +1,12 @@
 # 本番環境
 production:
   password: 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
-  theme_id: ""
+  theme_id: "126179573933"
   store: https://scm-gittest.myshopify.com
 
 
 # 開発環境
 development:
   password: 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
-  theme_id: "126179246253"
+  theme_id: "126179606701"
   store: https://scm-gittest.myshopify.com
