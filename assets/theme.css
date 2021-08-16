@@ -7000,3 +7000,7 @@ hr {
 .dev {
   color: red;
 }
+
+.dev p {
+  color: #000;
+}
