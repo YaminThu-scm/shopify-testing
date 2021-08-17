@@ -6996,3 +6996,15 @@ hr {
 
 .store-availability-list__phone {
   margin-bottom: 0; }
+
+.dev {
+  color: red;
+}
+
+.dev p {
+  color: #000;
+}
+
+.dev-txt {
+  margin-bottom: 2rem;
+}
