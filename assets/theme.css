@@ -7004,3 +7004,7 @@ hr {
 .dev p {
   color: #000;
 }
+
+.dev-txt {
+  margin-bottom: 2rem;
+}
