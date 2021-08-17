@@ -7012,3 +7012,7 @@ hr {
 .col-01 {
   color: #f0f;
 }
+
+.dev-theme p {
+  font-size: 1.4rem;
+}
